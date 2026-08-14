@@ -32,10 +32,6 @@ export default function Home() {
       <section className="hero">
         <div className="wrap hero-grid">
           <Reveal>
-            <div className="brand-lockup">
-              <strong>SpotFlex</strong>
-              <span>Fill the spot.</span>
-            </div>
             <p className="kicker">
               <span className="dot" />
               Now in beta · Ireland · <em>(but Cork first like ;-))</em>

@@ -229,27 +229,6 @@ button {
   align-items: center;
 }
 
-.brand-lockup {
-  margin-bottom: 22px;
-}
-
-.brand-lockup strong {
-  display: block;
-  font-family: var(--display);
-  font-size: 1.15rem;
-  font-weight: 700;
-}
-
-.brand-lockup span {
-  display: block;
-  margin-top: 4px;
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--accent);
-}
-
 .kicker {
   display: inline-flex;
   align-items: center;
